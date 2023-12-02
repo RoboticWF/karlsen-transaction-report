@@ -48,5 +48,5 @@ async function parseAddresses() {
 if (require.main === module) {
     parseAddresses()
         .then(generateReport)
-        .then((processedTxs) => writeToFile(processedTxs, 'kaspa-transactions.csv'));
+        .then((processedTxs) => writeToFile(processedTxs, 'Karlsen-transactions.csv'));
 }
