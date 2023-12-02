@@ -153,4 +153,4 @@ async function getAddressTransactions(address, txCache) {
     return txs;
 }
 
-export {generateReport};
+module.exports = { generateReport };
