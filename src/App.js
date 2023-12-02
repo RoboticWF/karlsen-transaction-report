@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import { Component } from 'react';
 import { CSVLink } from 'react-csv';
 import { Grid } from 'react-loader-spinner';
