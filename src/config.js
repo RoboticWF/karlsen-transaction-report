@@ -1,3 +1,3 @@
 module.exports = {
-    apiBase: process.env.API_BASE || 'https://api.karslencoin.com',
+    apiBase: process.env.API_BASE || 'https://api.karlsencoin.com',
 };
